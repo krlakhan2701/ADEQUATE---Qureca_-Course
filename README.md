@@ -1,0 +1,1 @@
+# ADEQUATE---Qureca_-Course
