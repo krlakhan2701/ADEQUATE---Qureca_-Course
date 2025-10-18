@@ -10,7 +10,6 @@ Each notebook was written and executed in **Google Colab**, focusing on fundamen
 
 📜 **Course:** ADEQUATE — QURECA Quantum Computing Program  
 📅 **Year:** 2025  
-🔗 **Certificate Link:** *(Add your certificate URL here when received)*
 
 ---
 
